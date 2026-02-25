@@ -1,0 +1,62 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Thumbnails / Finder
+._*
+
+# Spotlight / Time Machine
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# AFP / SMB
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+
+# iCloud placeholders
+*.icloud
+
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS / temp
+*.swp
+*.swo
+*~
